@@ -1,0 +1,10 @@
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.exe.config
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.exe
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.pdb
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.csprojAssemblyReference.cache
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.PoznamkovyBlokForm.resources
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.Properties.Resources.resources
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.csproj.GenerateResource.cache
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.csproj.CoreCompileInputs.cache
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.exe
+D:\skola\3.D\PRG\programy\CS050\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.pdb

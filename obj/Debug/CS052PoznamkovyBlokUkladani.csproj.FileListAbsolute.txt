@@ -1,0 +1,10 @@
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.exe.config
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.exe
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\bin\Debug\CS050PoznamkovyBlok.pdb
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS052PoznamkovyBlokUkladani.csprojAssemblyReference.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.PoznamkovyBlokForm.resources
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.Properties.Resources.resources
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS052PoznamkovyBlokUkladani.csproj.GenerateResource.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS052PoznamkovyBlokUkladani.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.exe
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS050PoznamkovyBlok\obj\Debug\CS050PoznamkovyBlok.pdb
